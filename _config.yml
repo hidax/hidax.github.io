@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hidax"
 title_separator          : "-"
 name                     : &name "Hidax"
-description              : &description "Là một BrSE đang sống và làm việc tại Nhật. Thích phiêu lưu và tán gái :"> "
+description              : &description "Là một BrSE đang sống và làm việc tại Nhật. Thích phiêu lưu và tán gái :) "
 url                      : https://hidax.github.io # the base hostname & protocol for your site
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hidax/hidax.github.io"
