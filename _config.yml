@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Hidax BrSE"
-  avatar           : "profile.png"
+  avatar           : "avatar.jpg"
   bio              : "Là một BrSE đang sống và làm việc tại Nhật. Thích phiêu lưu và tán gái :) "
   location         : "Japan"
   employer         :
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "fb.com/hiepvh1003"
   foursquare       :
   github           : "hidax"
   google_plus      :
