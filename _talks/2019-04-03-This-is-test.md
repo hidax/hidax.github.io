@@ -9,3 +9,5 @@ location: "San Francisco, California"
 ---
 
 This is a test post
+
+This is second sentence.
