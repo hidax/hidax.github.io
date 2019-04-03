@@ -3,8 +3,8 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
 
-  - title: "BrSE Talk"
-    url: /publications/
+  - title: "BrSE"
+    url: /brse/
 
   - title: "Tutorials"
     url: /talks/
