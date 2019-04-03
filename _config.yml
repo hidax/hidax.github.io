@@ -221,7 +221,7 @@ defaults:
       path: ""
       type: brse
     values:
-      layout: single
+      layout: wide
       author_profile: true
       share: true
       comments: true
